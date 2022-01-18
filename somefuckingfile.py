@@ -1,2 +1,0 @@
-def what():
-    print('what')
